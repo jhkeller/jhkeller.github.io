@@ -1,13 +1,5 @@
-Triangles: 
-
+Triangles:
 Materials: 
-
 Texture Size: 
-
-Texel Density: 
-
-Workflow: 
-
-Target Engine: 
-
-Collaborators:
+Workflow:
+Target Engine:
